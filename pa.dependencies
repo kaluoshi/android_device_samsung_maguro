@@ -2,6 +2,13 @@
     {
         "remote":       "github",
         "account":      "AOSPA",
+        "repository":   "android_device_samsung_tuna",
+        "target_path":  "device/samsung/tuna",
+        "revision":     "kitkat"
+    }
+    {
+        "remote":       "github",
+        "account":      "AOSPA",
         "repository":   "android_kernel_samsung_tuna",
         "target_path":  "kernel/samsung/tuna",
         "revision":     "kitkat"
