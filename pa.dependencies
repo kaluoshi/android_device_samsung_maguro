@@ -5,7 +5,7 @@
         "repository":   "android_device_samsung_tuna",
         "target_path":  "device/samsung/tuna",
         "revision":     "kitkat"
-    }
+    },
     {
         "remote":       "github",
         "account":      "AOSPA",
@@ -50,7 +50,7 @@
     },
     {
         "remote":       "github",
-        "account":      "ParanoidAndroid",
+        "account":      "TheMuppets",
         "repository":   "proprietary_vendor_nxp",
         "target_path":  "vendor/nxp",
         "revision":     "cm-10.2"
